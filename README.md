@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laila
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: lmileishkah@gmail.com
 
 <!---
